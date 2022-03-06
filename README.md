@@ -1,1 +1,1 @@
-nothing to read here
+command uname prints
